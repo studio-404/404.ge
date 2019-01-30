@@ -1,0 +1,92 @@
+@font-face {
+  font-family: 'BPGNinoMtavruli';
+  src: url('../fonts/bpg_nino_mtavruli_normal.ttf')  format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'BPGGlaxo';
+  src: url('../fonts/bpg_glaho_arial.ttf')  format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src:  url('../fonts/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Roboto-Regular.woff') format('woff'), 
+    url('../fonts/Roboto-Regular.ttf')  format('truetype'), 
+    url('../fonts/Roboto-Regular.svg#Roboto-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.l-region--navigation nav ul.menu li a span{
+  font-family: 'BPGNinoMtavruli';
+  font-size:16px;
+}
+
+.l-region--branding .search-wrapper .form-actions input{
+  font-family: 'BPGNinoMtavruli';
+}
+
+.view-display-id-homepage_hero .hero .hero-text h3 a{
+  font-family: 'BPGNinoMtavruli';
+}
+
+.view-display-id-homepage_hero .hero .hero-text .hero-read-more a, .hp-morelink a{
+  font-family: 'BPGNinoMtavruli';
+}
+
+.l-region--branding .search-wrapper input[type=text]{
+  font-family: 'BPGGlaxo';
+}
+
+.l-region--navigation nav ul.menu li ul.menu li a{
+  font-family: 'BPGGlaxo';
+}
+
+.block--views-home-page-views-life-at-uva .view-header .view-header-title .view-header-text h3{
+  font-family: 'BPGGlaxo';
+}
+
+.block--views-home-page-views-life-at-uva .view-header .view-header-give a{
+  font-family: 'BPGNinoMtavruli';
+  font-size: 22px;
+}
+
+.block--views-home-page-views-life-at-uva .view-content .views-row .life-at-uva-promo-textwrap .glance-news p span, .block--views-home-page-views-life-at-uva .view-content .views-row .life-at-uva-promo-textwrap .glance-news.Orange p span{
+  font-family: 'BPGGlaxo';
+  text-decoration: none;
+}
+
+.block--views-home-page-views-life-at-uva .view-content .views-row .life-at-uva-promo-textwrap .glance-rectangle h3, .block--views-home-page-views-life-at-uva .view-content .views-row .life-at-uva-promo-textwrap .glance-rectangle p{
+  font-family: 'BPGGlaxo';
+}
+
+#block-uva-news-uva-news-rss .header-wrapper .header-wrapper-bg h2{
+  font-family: 'BPGNinoMtavruli';
+}
+
+.link-news-title{
+ font-family: 'BPGNinoMtavruli'; 
+}
+
+.field-content{
+  font-family: 'BPGGlaxo';
+}
+
+.container-footer .l-region--footer ul.menu li a{
+ font-family: 'BPGGlaxo'; 
+}
+
+.container-footer .l-region--footer #block-uva-blocks-uva-copyright p a{
+  color: white;
+}
+
+
+
+
+
+

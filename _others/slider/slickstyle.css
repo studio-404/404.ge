@@ -1,0 +1,74 @@
+html{
+	overflow: hidden;
+}
+.gallery_iner {
+	width: 30vw;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	margin: auto;
+	z-index: 99;
+}
+.gallery_box {
+	height: 50vw;
+	background-size: cover;
+	margin: 0 5px;
+}
+#second,
+#first {
+	width: 35vw;
+	float: left;
+	/*background: red;*/
+	/*height: 250px;*/
+	position: absolute;
+	margin-top: 12.5vw;
+}
+#first {
+	left: 0;
+	/*height: 100%;*/
+}
+#second {
+	right: 0;
+	/*height: 100%;*/
+	/*width: 52.5vw;*/
+}
+#second .gallery_box,
+#first .gallery_box {
+	height: 25vw;
+	display: block;
+}
+
+.section_gallery {
+	position: relative;;
+	width: 100vw;
+}
+
+#next,
+#prev,
+#test {
+	position: relative;
+	z-index: 999999;
+}
+.GalPrev1,
+.GalNext1,
+.GalPrev2,
+.GalNext2 {
+	position: absolute;
+	height: 25vw;
+	width: 17.5vw;
+	top: 12.5vw;
+	z-index: 99999999;
+}
+.GalPrev2 {
+	right: 0;
+}
+.GalNext1 {
+	left: 17.5vw;
+}
+.GalPrev1{
+	right: 17.5vw;
+}
+.GalNext2 {
+	left: 0;
+}

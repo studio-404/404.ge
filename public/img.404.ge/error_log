@@ -1,0 +1,57 @@
+[13-Aug-2016 04:27:40 America/Chicago] PHP Fatal error:  Call to a member function dojob() on a non-object in /home/geoweb/public_html/public/img.404.ge/index.php on line 102
+[13-Aug-2016 04:28:23 America/Chicago] PHP Fatal error:  Class 'c' not found in /home/geoweb/public_html/public/img.404.ge/index.php on line 104
+[13-Aug-2016 04:28:43 America/Chicago] PHP Fatal error:  Class 'c' not found in /home/geoweb/public_html/public/img.404.ge/index.php on line 104
+[13-Aug-2016 04:28:45 America/Chicago] PHP Fatal error:  Class 'c' not found in /home/geoweb/public_html/public/img.404.ge/index.php on line 104
+[13-Aug-2016 04:29:42 America/Chicago] PHP Fatal error:  Class 'config\c' not found in /home/geoweb/public_html/public/img.404.ge/index.php on line 104
+[13-Aug-2016 04:33:42 America/Chicago] PHP Fatal error:  Class 'c' not found in /home/geoweb/public_html/public/img.404.ge/index.php on line 126
+[13-Aug-2016 04:34:17 America/Chicago] PHP Warning:  imagecreatefromjpeg(public/temporaty/7f4632347ac8330b1caf23f7287fac1fa435d92c.jpg): failed to open stream: No such file or directory in /home/geoweb/public_html/public/img.404.ge/index.php on line 69
+[13-Aug-2016 04:34:17 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 83
+[13-Aug-2016 04:34:17 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 84
+[13-Aug-2016 04:34:17 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 115
+[13-Aug-2016 04:34:17 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 116
+[13-Aug-2016 04:34:17 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 117
+[13-Aug-2016 04:35:08 America/Chicago] PHP Warning:  imagecreatefromjpeg(http://404.ge/public/temporaty/7f4632347ac8330b1caf23f7287fac1fa435d92c.jpg): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/geoweb/public_html/public/img.404.ge/index.php on line 69
+[13-Aug-2016 04:35:08 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 83
+[13-Aug-2016 04:35:08 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 84
+[13-Aug-2016 04:35:08 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 115
+[13-Aug-2016 04:35:08 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 116
+[13-Aug-2016 04:35:08 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 117
+[13-Aug-2016 04:36:04 America/Chicago] PHP Warning:  imagecreatefromjpeg(/home/geoweb/public_html/public/temporaty/7f4632347ac8330b1caf23f7287fac1fa435d92c.jpg): failed to open stream: No such file or directory in /home/geoweb/public_html/public/img.404.ge/index.php on line 69
+[13-Aug-2016 04:36:04 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 83
+[13-Aug-2016 04:36:04 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 84
+[13-Aug-2016 04:36:04 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 115
+[13-Aug-2016 04:36:04 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 116
+[13-Aug-2016 04:36:04 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 117
+[13-Aug-2016 04:40:43 America/Chicago] PHP Warning:  imagecreatefromjpeg(/home/geoweb/public_html/public/temporaty/f07183b1bbb952a256e27277d0d9574d9a248060.jpg): failed to open stream: No such file or directory in /home/geoweb/public_html/public/img.404.ge/index.php on line 69
+[13-Aug-2016 04:40:43 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 83
+[13-Aug-2016 04:40:43 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 84
+[13-Aug-2016 04:40:43 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 115
+[13-Aug-2016 04:40:43 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 116
+[13-Aug-2016 04:40:43 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 117
+[13-Aug-2016 04:45:01 America/Chicago] PHP Warning:  imagecreatefromjpeg(/home/geoweb/public_html/public/temporaty/f07183b1bbb952a256e27277d0d9574d9a248060.jpg): failed to open stream: No such file or directory in /home/geoweb/public_html/public/img.404.ge/index.php on line 69
+[13-Aug-2016 04:45:01 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 83
+[13-Aug-2016 04:45:01 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 84
+[13-Aug-2016 04:45:01 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 115
+[13-Aug-2016 04:45:01 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 116
+[13-Aug-2016 04:45:01 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 117
+[13-Aug-2016 04:47:33 America/Chicago] PHP Warning:  imagecreatefromjpeg(public/temporaty/d901aca81d022244ca1229cfad767f16d74d087d.jpg): failed to open stream: No such file or directory in /home/geoweb/public_html/public/img.404.ge/index.php on line 69
+[13-Aug-2016 04:47:33 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 83
+[13-Aug-2016 04:47:33 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 84
+[13-Aug-2016 04:47:33 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 115
+[13-Aug-2016 04:47:33 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 116
+[13-Aug-2016 04:47:33 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 117
+[13-Aug-2016 04:51:17 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/geoweb/public_html/public/img.404.ge/index.php on line 56
+[13-Aug-2016 05:17:51 America/Chicago] PHP Warning:  imagecreatefromjpeg(/home/geoweb/public_html/public/temporaty/5ecdd8e4413fef31736411de99286f9dcf57a4a1.jpg): failed to open stream: No such file or directory in /home/geoweb/public_html/public/img.404.ge/index.php on line 71
+[13-Aug-2016 05:17:51 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 85
+[13-Aug-2016 05:17:51 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 86
+[13-Aug-2016 05:17:51 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 117
+[13-Aug-2016 05:17:51 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 118
+[13-Aug-2016 05:17:51 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 119
+[13-Aug-2016 05:23:55 America/Chicago] PHP Warning:  imagecreatefromjpeg(/home/geoweb/public_html/public/temporaty/f07183b1bbb952a256e27277d0d9574d9a248060.jpg): failed to open stream: No such file or directory in /home/geoweb/public_html/public/img.404.ge/index.php on line 71
+[13-Aug-2016 05:23:55 America/Chicago] PHP Warning:  imagesx() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 85
+[13-Aug-2016 05:23:55 America/Chicago] PHP Warning:  imagesy() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 86
+[13-Aug-2016 05:23:55 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 117
+[13-Aug-2016 05:23:55 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 118
+[13-Aug-2016 05:23:55 America/Chicago] PHP Warning:  imagefilter() expects parameter 1 to be resource, boolean given in /home/geoweb/public_html/public/img.404.ge/index.php on line 119
+[13-Aug-2016 05:54:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/geoweb/public_html/public/img.404.ge/index.php:103) in /home/geoweb/public_html/public/img.404.ge/index.php on line 156

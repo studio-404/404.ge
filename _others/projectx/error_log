@@ -1,0 +1,7 @@
+[21-Sep-2018 14:00:15 Asia/Tbilisi] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [2003] Can't connect to MySQL server on '127.0.0.1' (111)' in /home/geoweb/public_html/_others/projectx/lib/database/connection.php:11
+Stack trace:
+#0 /home/geoweb/public_html/_others/projectx/lib/database/connection.php(11): PDO->__construct('mysql:host=127....', 'geoweb_batumi', '#v1?n9=EWXmd')
+#1 /home/geoweb/public_html/_others/projectx/lib/lancher/bootstrap.php(8): lib_database_connection->conn()
+#2 /home/geoweb/public_html/_others/projectx/index.php(35): lib_lancher_bootstrap->lanch(Array)
+#3 {main}
+  thrown in /home/geoweb/public_html/_others/projectx/lib/database/connection.php on line 11

@@ -1,0 +1,16 @@
+main{
+	padding-left: 300px;
+}
+.logo{
+	text-align: center;
+    margin-top: 32px;
+    margin-bottom: 40px;
+}
+
+#logo-container {
+    height: 57px;
+    margin-bottom: 32px;
+}
+#logo-container:hover{
+	background-color: white;
+}

@@ -4,6 +4,8 @@ header('X-Frame-Options: DENY');
 header("Content-type: text/html; charset=utf-8");
 $dir_explode = explode("index.php",__FILE__);
 define("DIR",$dir_explode[0]);
+
+
 // Deny requesting GLOBALS
 if (ini_get('register_globals'))
 {
@@ -19,6 +21,18 @@ if (ini_get('register_globals'))
 }
 date_default_timezone_set("Asia/Tbilisi");
 @include("config.php");
+
+if(!isset($_SESSION["username"]) || $_SESSION["username"]!="administraor"){
+    header('Location: index.php');
+    exit();
+}
+
+if(isset($_GET['logout'])){
+    unset($_SESSION["username"]);
+    header('Location: index.php');
+    exit();
+}
+
 function __autoload($class_name) 
 {
     $filename = str_replace('_', DIRECTORY_SEPARATOR, strtolower($class_name)).'.php';

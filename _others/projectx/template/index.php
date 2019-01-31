@@ -1,6 +1,7 @@
 <?php
 @include($c["website.directory.parts"]."/head.php");
 ?>
+
 <table class="table table-action">
   <thead>
     <tr>

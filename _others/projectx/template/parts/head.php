@@ -28,3 +28,7 @@
 		</div>
 	</div>
 </div>
+
+<div class="user">
+	<p>Hello: <?=$_SESSION["username"]?>; <a href="?logout">Logout</a></p>
+</div>

@@ -20,6 +20,24 @@ table {
   border-spacing: 0;
 }
 
+.user{
+  margin: 10px 0px;
+}
+
+.user p{
+  font-size: 14px;
+  line-height: 20px;
+  font-family:bpg_sans_web !important;
+}
+
+.user p a{
+  font-size: 14px;
+  line-height: 20px;
+  font-family:bpg_sans_web !important;
+  text-decoration: underline;
+  color: #827ffe;
+}
+
 .table { 
   width: 100%;
   margin-bottom: 20px;
@@ -36,9 +54,13 @@ table {
   border-top: 1px solid #dddddd;
 }
 .table thead th {
-  background: #eeeeee;
+  background: #827ffe;
   vertical-align: bottom;
 }   
+
+.table thead th b{
+  color: white;
+}
 /*.table tbody > tr:nth-child(odd) > td,
 .table tbody > tr:nth-child(odd) > th {
   background-color: #fafafa;

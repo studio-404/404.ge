@@ -1,4 +1,4 @@
-var AJAX = "http://404.ge/_others/projectx/?page=ajax"
+var AJAX = "http://404.ge/_others/projectx/admin.php?page=ajax"
 $(document).on("click",".addCompany",function(){
 	$(".loader").show();	
 	popmeup("addcompany",""); 	

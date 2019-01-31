@@ -58,7 +58,9 @@ table {
   vertical-align: bottom;
 }   
 
-.table thead th b{
+.table thead th b,
+.table thead th a
+{
   color: white;
 }
 /*.table tbody > tr:nth-child(odd) > td,

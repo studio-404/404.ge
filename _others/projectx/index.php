@@ -47,7 +47,7 @@ if(
             <div class="wrap-login100 p-t-50 p-b-90">
                 <form action="?" method="post" class="login100-form validate-form flex-sb flex-w">
                     <span class="login100-form-title p-b-51">
-                        Login
+                        Authentication
                     </span>
 
                     
